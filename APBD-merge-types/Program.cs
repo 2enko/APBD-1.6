@@ -9,7 +9,7 @@ class Program {
         Console.WriteLine(D);
 
 
-
+        Console.WriteLine("HEJ HEJ"); 
 
 
         Console.WriteLine("Owls are not what they seem");
@@ -29,7 +29,7 @@ class Program {
         }
         return sum / numbs.Length; 
     }
-    static double CalculateMax(int[] numbs) {
+        static double CalculateMax(int[] numbs) {
         double max = 0;
         foreach (int numb in numbs) {
             if(numb > max) {
@@ -38,8 +38,4 @@ class Program {
         }
         return max;
     }
-
-
-
-
 }
