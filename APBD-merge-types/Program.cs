@@ -13,13 +13,6 @@ class Program {
 
 
         Console.WriteLine("Owls are not what they seem");
-
-
-
-
-
-
-        Console.WriteLine("commit 5");
     }
 
     static double CalculateAvg(int[] numbs) {
@@ -38,8 +31,4 @@ class Program {
         }
         return max;
     }
-
-
-
-
 }
