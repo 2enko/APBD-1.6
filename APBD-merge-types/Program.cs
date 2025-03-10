@@ -6,8 +6,13 @@ class Program {
         Console.WriteLine(CalculateAvg(numbs));
         Console.WriteLine(CalculateMax(numbs));
 
-        Console.WriteLine(D)
+        Console.WriteLine(D);
 
+
+
+
+
+        Console.WriteLine("Owls are not what they seem");
     }
 
     static double CalculateAvg(int[] numbs) {
