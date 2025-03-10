@@ -5,9 +5,6 @@ class Program {
         int[] numbs = {5, 4, 7, 9};
         Console.WriteLine(CalculateAvg(numbs));
         Console.WriteLine(CalculateMax(numbs));
-
-        Console.WriteLine(D)
-
     }
 
     static double CalculateAvg(int[] numbs) {
@@ -17,7 +14,7 @@ class Program {
         }
         return sum / numbs.Length; 
     }
-    static double CalculateMax(int[] numbs) {
+        static double CalculateMax(int[] numbs) {
         double max = 0;
         foreach (int numb in numbs) {
             if(numb > max) {
