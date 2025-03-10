@@ -14,15 +14,6 @@ class Program {
 
 
 
-
-
-
-
-
-
-
-
-        Console.WriteLine("DKDKDKDKDK")
     }
 
     static double CalculateAvg(int[] numbs) {
