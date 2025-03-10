@@ -5,6 +5,21 @@ class Program {
         int[] numbs = {5, 4, 7, 9};
         Console.WriteLine(CalculateAvg(numbs));
         Console.WriteLine(CalculateMax(numbs));
+
+        Console.WriteLine(D);
+
+
+        Console.WriteLine("HEJ HEJ"); 
+
+
+        Console.WriteLine("Owls are not what they seem");
+
+
+
+
+
+
+        Console.WriteLine("commit 5");
     }
 
     static double CalculateAvg(int[] numbs) {
